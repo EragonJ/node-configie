@@ -1,6 +1,6 @@
 {
-    "name" : "Configie",
-    "version" : "0.0.1",
+    "name" : "configie",
+    "version" : "0.0.2",
     "description" : "This is a config loader that can detect environment and load the right files",
     "author" : "EragonJ <eragonj@eragonj.me>",
     "main" : "index",
