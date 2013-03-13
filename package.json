@@ -1,0 +1,25 @@
+{
+    "name" : "Configie",
+    "version" : "0.0.1",
+    "description" : "This is a config loader that can detect environment and load the right files",
+    "author" : "EragonJ <eragonj@eragonj.me>",
+    "main" : "index",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/EragonJ/node-configie"
+    },
+    "keywords" : [
+        "configie",
+        "config"
+    ],
+    "dependencies" : {
+
+    },
+    "devDependencies" : {
+
+    },
+    "engines" : {
+        "node" : ">= 0.8.3"
+    },
+    "license" : "MIT"
+}
